@@ -1,0 +1,137 @@
+ids,title,url,summary,is_gnu_compatible,is_free
+"GNUGPLv3,GNUGPL",GNU General Public License (GPL) version 3,https://www.gnu.org/licenses/gpl.html,"Free licenses, compatible with the GNU GPL",True,True
+GPLv2,GNU General Public License (GPL) version 2,https://www.gnu.org/licenses/old-licenses/gpl-2.0.html,"Free licenses, compatible with the GNU GPL",True,True
+"LGPLv3,LGPL",GNU Lesser General Public License (LGPL) version 3,https://www.gnu.org/licenses/lgpl.html,"Free licenses, compatible with the GNU GPL",True,True
+LGPLv2.1,GNU Lesser General Public License (LGPL) version 2.1,https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html,"Free licenses, compatible with the GNU GPL",True,True
+"AGPL,AGPLv3.0",GNU Affero General Public License (AGPL) version 3,https://www.gnu.org/licenses/agpl.html,"Free licenses, compatible with the GNU GPL",True,True
+GNUAllPermissive,GNU All-Permissive License,https://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html,"Free licenses, compatible with the GNU GPL",True,True
+apache2,"Apache License, Version 2.0",https://directory.fsf.org/wiki/License:Apache2.0,"Free licenses, compatible with the GNU GPL",True,True
+ArtisticLicense2,Artistic License 2.0,https://directory.fsf.org/wiki/License:ArtisticLicense2.0,"Free licenses, compatible with the GNU GPL",True,True
+ClarifiedArtistic,Clarified Artistic License,https://directory.fsf.org/wiki/License:Clarified_Artistic_License_1.0,"Free licenses, compatible with the GNU GPL",True,True
+"BerkleyDB,BerkeleyDB",Berkeley Database License,https://directory.fsf.org/wiki/License:Sleepycat,"Free licenses, compatible with the GNU GPL",True,True
+boost,Boost Software License,https://directory.fsf.org/wiki/License:Boost1.0,"Free licenses, compatible with the GNU GPL",True,True
+ModifiedBSD,Modified BSD license,https://directory.fsf.org/wiki/License:BSD_3Clause,"Free licenses, compatible with the GNU GPL",True,True
+CeCILL,CeCILL version 2,https://directory.fsf.org/wiki/License:CeCILLv2,"Free licenses, compatible with the GNU GPL",True,True
+clearbsd,The Clear BSD License,https://directory.fsf.org/wiki/License:ClearBSD,"Free licenses, compatible with the GNU GPL",True,True
+CryptixGeneralLicense,Cryptix General License,https://directory.fsf.org/wiki/License:CryptixGL,"Free licenses, compatible with the GNU GPL",True,True
+"eCos2.0,eCos20",eCos license version 2.0,https://directory.fsf.org/wiki/License:ECos2.0,"Free licenses, compatible with the GNU GPL",True,True
+ECL2.0,Educational Community License 2.0,https://directory.fsf.org/wiki/License:ECL2.0,"Free licenses, compatible with the GNU GPL",True,True
+Eiffel,"Eiffel Forum License, version 2",https://directory.fsf.org/wiki/License:EFLv2,"Free licenses, compatible with the GNU GPL",True,True
+EUDataGrid,EU DataGrid Software License,https://directory.fsf.org/wiki/License:EUDataGrid,"Free licenses, compatible with the GNU GPL",True,True
+Expat,Expat License,https://directory.fsf.org/wiki/License:Expat,"Free licenses, compatible with the GNU GPL",True,True
+FreeBSD,FreeBSD license,https://directory.fsf.org/wiki?title=License:FreeBSD,"Free licenses, compatible with the GNU GPL",True,True
+freetype,Freetype Project License,https://directory.fsf.org/wiki/License:FreeType,"Free licenses, compatible with the GNU GPL",True,True
+HPND,Historical Permission Notice and Disclaimer,https://directory.fsf.org/wiki/License:Historical_Permission_Notice_and_Disclaimer,"Free licenses, compatible with the GNU GPL",True,True
+iMatix,License of the iMatix Standard Function Library,https://directory.fsf.org/wiki?title=License:SFL,"Free licenses, compatible with the GNU GPL",True,True
+imlib,License of imlib2,https://directory.fsf.org/wiki/License:Imlib2,"Free licenses, compatible with the GNU GPL",True,True
+ijg,Independent JPEG Group License,https://directory.fsf.org/wiki?title=License:JPEG,"Free licenses, compatible with the GNU GPL",True,True
+informal,Informal license,https://www.gnu.org,"Free licenses, compatible with the GNU GPL",True,True
+intel,Intel Open Source License,https://directory.fsf.org/wiki/License:IntelACPI,"Free licenses, compatible with the GNU GPL",True,True
+ISC,ISC License,https://directory.fsf.org/wiki/License:ISC,"Free licenses, compatible with the GNU GPL",True,True
+MPL-2.0,Mozilla Public        License (MPL) version 2.0,https://directory.fsf.org/wiki/License:MPLv2.0,"Free licenses, compatible with the GNU GPL",True,True
+NCSA,NCSA/University of Illinois Open Source License,https://directory.fsf.org/wiki/License:IllinoisNCSA,"Free licenses, compatible with the GNU GPL",True,True
+"NetscapeJavascript,NetscapeJavaScript",License of Netscape JavaScript             (#NetscapeJavaScript),https://www.gnu.org,"Free licenses, compatible with the GNU GPL",True,True
+newOpenLDAP,"OpenLDAP License, Version 2.7",https://directory.fsf.org/wiki/License:OpenLDAPv2.7,"Free licenses, compatible with the GNU GPL",True,True
+PerlLicense,License of Perl 5 and below,https://www.gnu.org,"Free licenses, compatible with the GNU GPL",True,True
+PublicDomain,Public Domain,https://directory.fsf.org/wiki/License:PublicDomain,"Free licenses, compatible with the GNU GPL",True,True
+Python,"License of Python 2.0.1, 2.1.1, and newer versions",https://directory.fsf.org/wiki?title=License:Python2.0.1,"Free licenses, compatible with the GNU GPL",True,True
+Python1.6a2,License of Python 1.6a2 and earlier versions,https://directory.fsf.org/wiki?title=License:Python1.6a2,"Free licenses, compatible with the GNU GPL",True,True
+Ruby,License of Ruby,https://directory.fsf.org/wiki/License:Ruby,"Free licenses, compatible with the GNU GPL",True,True
+SGIFreeB,"SGI Free Software License B, version 2.0",https://directory.fsf.org/wiki/License:SGIFreeBv2,"Free licenses, compatible with the GNU GPL",True,True
+StandardMLofNJ,Standard ML of New Jersey Copyright License,https://directory.fsf.org/wiki/License:StandardMLofNJ,"Free licenses, compatible with the GNU GPL",True,True
+Unicode,"Unicode, Inc. License Agreement for Data Files and Software",https://directory.fsf.org/wiki/License:Unicode,"Free licenses, compatible with the GNU GPL",True,True
+UPL,Universal Permissive License (UPL),https://directory.fsf.org/wiki/License:Universal_Permissive_License,"Free licenses, compatible with the GNU GPL",True,True
+Unlicense,The Unlicense,https://directory.fsf.org/wiki/License:TheUnlicense,"Free licenses, compatible with the GNU GPL",True,True
+Vim,"License of Vim, Version 6.1 or later",https://directory.fsf.org/wiki/License:Vim7.2,"Free licenses, compatible with the GNU GPL",True,True
+W3C,W3C Software Notice and License,https://directory.fsf.org/wiki/License:W3C_31Dec2002,"Free licenses, compatible with the GNU GPL",True,True
+WebM,License of WebM,https://directory.fsf.org/wiki/License:WebM,"Free licenses, compatible with the GNU GPL",True,True
+WTFPL,"WTFPL, Version 2",https://directory.fsf.org/wiki/License:WTFPL-2,"Free licenses, compatible with the GNU GPL",True,True
+Wx,WxWidgets Library License,https://directory.fsf.org/wiki/License:WxWindows_Library_Licence-3.1,"Free licenses, compatible with the GNU GPL",True,True
+Wxwind,WxWindows Library License,https://directory.fsf.org/wiki/License:WxWindows_Library_Licence-3.1,"Free licenses, compatible with the GNU GPL",True,True
+X11License,X11 License,https://directory.fsf.org/wiki/License:X11,"Free licenses, compatible with the GNU GPL",True,True
+XFree861.1License,XFree86 1.1 License,https://directory.fsf.org/wiki/License:XFree86_1.1,"Free licenses, compatible with the GNU GPL",True,True
+ZLib,License of ZLib,https://directory.fsf.org/wiki/License:Zlib,"Free licenses, compatible with the GNU GPL",True,True
+"Zope20,Zope2.0","Zope Public License, versions 2.0 and 2.1",https://directory.fsf.org/wiki?title=License:ZopePLv2.1,"Free licenses, compatible with the GNU GPL",True,True
+AGPLv1.0,Affero General Public License version 1,https://directory.fsf.org/wiki/License:AGPLv1,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+AcademicFreeLicense,"Academic Free License, all versions through 3.0",https://directory.fsf.org/wiki/License:AFLv3,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+apache1.1,"Apache License, Version 1.1",https://directory.fsf.org/wiki/License:Apache1.1,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+apache1,"Apache License, Version 1.0",https://directory.fsf.org/wiki/License:Apache1.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+apsl2,"Apple Public Source License (APSL), version 2",https://directory.fsf.org/wiki/License:APSLv2.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+bittorrent,BitTorrent Open Source License,https://directory.fsf.org/wiki/License:BitTorrentOSL1.1,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+OriginalBSD,Original BSD license,https://directory.fsf.org/wiki/License:BSD_4Clause,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+CeCILL-B,CeCILL-B version 1,https://spdx.org/licenses/CECILL-B,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+CeCILL-C,CeCILL-C version 1,https://spdx.org/licenses/CECILL-C,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+CDDL,"Common Development and Distribution License (CDDL), version 1.0",https://directory.fsf.org/wiki/License:CDDLv1.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+CPAL,Common Public Attribution License 1.0 (CPAL),https://directory.fsf.org/wiki/License:Common_Public_Attribution_License_Version_1.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+CommonPublicLicense10,Common Public License Version 1.0,https://directory.fsf.org/wiki/License:CPLv1.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+Condor,Condor Public License,https://directory.fsf.org/wiki?title=License:Condor1.1,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+EPL,Eclipse Public License Version 1.0,https://directory.fsf.org/wiki/License:EPLv1.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+EPL2,Eclipse Public License Version 2.0,https://directory.fsf.org/wiki/License:EPL-2.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+"EUPL-1.1,EUPL",European Union Public License (EUPL) version 1.1,https://directory.fsf.org/wiki/License:EUPLv1.1,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+EUPL-1.2,European Union Public License (EUPL) version 1.2,https://directory.fsf.org/wiki/License:EUPLv1.2,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+fdk,Fraunhofer FDK AAC license,https://directory.fsf.org/wiki/License:fdk,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+gnuplot,Gnuplot license,https://directory.fsf.org/wiki/License:Gnuplot,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+IBMPL,"IBM Public License, Version 1.0",https://directory.fsf.org/wiki/License:IBMPLv1.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+josl,"Jabber Open Source License, Version 1.0",https://directory.fsf.org/wiki/License:JabberOSLv1.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+LPPL-1.3a,LaTeX Project Public License 1.3a,https://directory.fsf.org/wiki/License:LPPLv1.3a,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+LPPL-1.2,LaTeX Project Public License 1.2,https://directory.fsf.org/wiki/License:LPPLv1.2,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+lucent102,Lucent Public License Version 1.02 (Plan 9 license),https://directory.fsf.org/wiki/License:LucentPLv1.02,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+ms-pl,Microsoft Public License (Ms-PL),https://directory.fsf.org/wiki/License:MsPL,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+ms-rl,Microsoft Reciprocal License (Ms-RL),https://directory.fsf.org/wiki/License:MsRL,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+MPL,Mozilla Public License (MPL) version 1.1,https://directory.fsf.org/wiki/License:MPLv1.1,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+NOSL,"Netizen Open Source License (NOSL), Version 1.0",https://directory.fsf.org/wiki/License:NOSLv1.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+NPL,Netscape Public License (NPL),https://directory.fsf.org/wiki?title=License:NPLv1.1,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+Nokia,Nokia Open Source License,https://directory.fsf.org/wiki/License:NokOSv1.0a,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+oldOpenLDAP,"Old OpenLDAP License, Version 2.3",https://directory.fsf.org/wiki/License:OpenLDAPv2.3,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+OSL,"Open Software License, all versions through 3.0",https://directory.fsf.org/wiki/License:OSLv3.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+OpenSSL,OpenSSL license,https://directory.fsf.org/wiki/License:OpenSSL,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+Phorum,"Phorum License, Version 2.0",https://directory.fsf.org/wiki/License:Phorum2.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+PHP-3.01,"PHP License, Version 3.01",https://directory.fsf.org/wiki/License:PHPv3.01,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+PythonOld,License of Python 1.6b1 through 2.0 and 2.1,https://directory.fsf.org/wiki/License:Python1.6b1,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+QPL,"Q Public License (QPL), Version 1.0",https://directory.fsf.org/wiki/License:QPLv1.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+RPSL,"RealNetworks Public Source License (RPSL), Version 1.0",https://directory.fsf.org/wiki/License:RPSLv1.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+SISSL,Sun Industry Standards Source License 1.1,https://directory.fsf.org/wiki/License:SISSL-1.1,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+SPL,Sun Public License,https://directory.fsf.org/wiki/License:SPLv1.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+xinetd,License of xinetd,https://directory.fsf.org/wiki/License:Xinetd,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+Yahoo,Yahoo! Public License 1.1,https://directory.fsf.org/wiki/License:YPLv1.1,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+Zend,"Zend License, Version 2.0",https://directory.fsf.org/wiki/License:ZELv2.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+Zimbra,Zimbra Public License 1.3,https://directory.fsf.org/wiki/License:ZPL-1.3,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+Zope,Zope Public License version 1,https://directory.fsf.org/wiki/License:ZPL-1.0,"Free licenses, incompatible with the GNU GPL and FDL",False,True
+NoLicense,No license,https://www.gnu.org,Nonfree licenses,False,False
+Aladdin,Aladdin Free Public License,https://directory.fsf.org/wiki/License:Aladdin,Nonfree licenses,False,False
+Anti-996,Anti-996 License,https://directory.fsf.org/wiki/License:996,Nonfree licenses,False,False
+anticapitalist,Anti-Capitalist Software License,https://directory.fsf.org/wiki/License:ANTI-1.4,Nonfree licenses,False,False
+apsl1,"Apple Public Source License (APSL), version 1.x",https://directory.fsf.org/wiki/License:APSLv1.x,Nonfree licenses,False,False
+ArtisticLicense,Artistic License 1.0,https://directory.fsf.org/wiki/License:Artistic_v1.0,Nonfree licenses,False,False
+ATTPublicLicense,AT&T Public License,https://www.gnu.org,Nonfree licenses,False,False
+cpol,"Code Project Open License, version 1.02",https://directory.fsf.org/wiki/License:CPOL-1.02,Nonfree licenses,False,False
+comclause,Commons Clause,https://directory.fsf.org/wiki/License:Commons-Clause,Nonfree licenses,False,False
+DOR,CNRI Digital Object Repository License Agreement,https://directory.fsf.org/wiki/License:CNRI,Nonfree licenses,False,False
+eCos11,"eCos Public License, version 1.1",https://directory.fsf.org/wiki/License:ECosPLv1.1,Nonfree licenses,False,False
+hippocratic,The Hippocratic License 1.1,https://directory.fsf.org/wiki/License:THL-1.1,Nonfree licenses,False,False
+GPL-PA,GPL for Computer Programs of the Public Administration,https://directory.fsf.org/wiki/License:GPL-PA,Nonfree licenses,False,False
+HESSLA,Hacktivismo Enhanced-Source Software License Agreement,https://directory.fsf.org/wiki/License:HESSLA,Nonfree licenses,False,False
+Jahia,Jahia Community Source License,https://directory.fsf.org/wiki/License:JahiaCSL,Nonfree licenses,False,False
+JSON,The JSON License,https://directory.fsf.org/wiki/License:JSON,Nonfree licenses,False,False
+ksh93,Old license of ksh93,https://directory.fsf.org/wiki/License:Old_ksh93,Nonfree licenses,False,False
+Lha,License of Lha,https://directory.fsf.org/wiki/License:Lha,Nonfree licenses,False,False
+Ms-SS,"Microsoft's Shared Source CLI, C#, and Jscript License",https://directory.fsf.org/wiki/License:Ms-SS,Nonfree licenses,False,False
+NASA,NASA Open Source Agreement,https://directory.fsf.org/wiki/License:NASA-OSA_v1.3,Nonfree licenses,False,False
+"OculusRiftSDK,OculusRift",Oculus Rift SDK License,https://directory.fsf.org/wiki/License:Oculus_VR_Rift_SDK_License,Nonfree licenses,False,False
+"OPL,OpenPublicL",Open Public License,https://directory.fsf.org/wiki/License:OpenPLv1.0,Nonfree licenses,False,False
+PPL,Peer-Production License,https://directory.fsf.org/wiki/License:PPL,Nonfree licenses,False,False
+PPL3a,Personal Public License Version 3a,https://directory.fsf.org/wiki/License:PPL3a,Nonfree licenses,False,False
+PINE,License of PINE,https://directory.fsf.org/wiki/License:PINE,Nonfree licenses,False,False
+Plan9,Old Plan 9 license,https://directory.fsf.org/wiki/License:Old-plan9,Nonfree licenses,False,False
+RPL,Reciprocal Public License,https://directory.fsf.org/wiki/License:ReciprocalPLv1.3,Nonfree licenses,False,False
+Scilab,Scilab license,https://directory.fsf.org/wiki/License:Scilab-old,Nonfree licenses,False,False
+Scratch,Scratch 1.4 license,https://directory.fsf.org/wiki/License:Scratch,Nonfree licenses,False,False
+SML,Simple Machines License,https://directory.fsf.org/wiki/License:SimpleM,Nonfree licenses,False,False
+Squeak,Old Squeak license,https://directory.fsf.org/wiki/License:Squeak-old,Nonfree licenses,False,False
+SunCommunitySourceLicense,Sun Community Source License,https://directory.fsf.org/wiki/License:SunCSLv2.8,Nonfree licenses,False,False
+SunSolarisSourceCode,"Sun Solaris Source Code (Foundation Release) License, Version 1.1",https://directory.fsf.org/wiki/License:SSSCFR-1.1,Nonfree licenses,False,False
+"Watcom,Sybase",Sybase Open Watcom Public License version 1.0,https://directory.fsf.org/wiki/License:Watcom-1.0,Nonfree licenses,False,False
+SystemC-3.0,"SystemC “Open Source” License, Version 3.0",https://directory.fsf.org/wiki/License:SCOSL-3.0,Nonfree licenses,False,False
+Truecrypt-3.0,Truecrypt license 3.0,https://directory.fsf.org/wiki/License:TrueCrypt,Nonfree licenses,False,False
+UtahPublicLicense,University of Utah Research Foundation Public License,https://directory.fsf.org/wiki/License:UnivUtahRFPL,Nonfree licenses,False,False
+YaST,YaST License,https://directory.fsf.org/wiki/License:YaST-license,Nonfree licenses,False,False
